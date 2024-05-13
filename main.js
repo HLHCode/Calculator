@@ -35,14 +35,3 @@ calculadoraone.onclick = ()=>{
 
 
 
-/*
-
-*/
-
-
-/*
-toString. es para crear una cadenas de caracteres sea # o Letras
-sudstr. devuelve los caracteres de una cadena que comienzan en una localización
-        su meto es desde el index (0) y la longitud -1 (lenght-1)
-eval. realiza la operacion arimetica 
-*/
